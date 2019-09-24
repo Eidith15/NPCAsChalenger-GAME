@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 4334a6a2af3b7f4408e0e6aec479bbeb
+timeCreated: 1480120953
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ninja-spritesheet_0
+    21300002: Ninja-spritesheet_1
+    21300004: Ninja-spritesheet_2
+    21300006: Ninja-spritesheet_3
+    21300008: Ninja-spritesheet_4
+    21300010: Ninja-spritesheet_5
+    21300012: Ninja-spritesheet_6
+    21300014: Ninja-spritesheet_7
+    21300016: Ninja-spritesheet_8
+    21300018: Ninja-spritesheet_9
+    21300020: Ninja-spritesheet_10
+    21300022: Ninja-spritesheet_11
+    21300024: Ninja-spritesheet_12
+    21300026: Ninja-spritesheet_13
+    21300028: Ninja-spritesheet_14
+    21300030: Ninja-spritesheet_15
+    21300032: Ninja-spritesheet_16
+    21300034: Ninja-spritesheet_17
+    21300036: Ninja-spritesheet_18
+    21300038: Ninja-spritesheet_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ninja-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1573
+        width: 176
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1587
+        width: 255
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1581
+        width: 225
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1583
+        width: 190
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1581
+        width: 176
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1581
+        width: 176
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1576
+        width: 176
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1575
+        width: 202
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1082
+        width: 238
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1076
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1072
+        width: 176
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1073
+        width: 176
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1071
+        width: 177
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1073
+        width: 176
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1073
+        width: 176
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1073
+        width: 176
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 573
+        width: 176
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 571
+        width: 193
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 574
+        width: 218
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Ninja-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 580
+        width: 235
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
